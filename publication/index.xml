@@ -5,12 +5,68 @@
     <link>https://www.kfworks.com/publication/</link>
       <atom:link href="https://www.kfworks.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kfworks.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.kfworks.com/publication/</link>
     </image>
+    
+    <item>
+      <title>A Closer Look at Rotation-invariant Deep Point Cloud Analysis</title>
+      <link>https://www.kfworks.com/publication/li-2021-rotinv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-rotinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Shuffled Linear Regression</title>
+      <link>https://www.kfworks.com/publication/li-2021-gslr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-gslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Unified Framework for Point Set Registration</title>
+      <link>https://www.kfworks.com/publication/li-2021-toward/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Implicit Embedding for Point Cloud Analysis</title>
+      <link>https://www.kfworks.com/publication/fujiwara-2020-neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/fujiwara-2020-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canonical and Compact Point Cloud Representation for Shape Classification</title>
+      <link>https://www.kfworks.com/publication/fujiwara-2018-canonical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/fujiwara-2018-canonical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Categorical Shape Reconstruction Through Manifolds</title>
+      <link>https://www.kfworks.com/publication/fujiwara-2016-unsupervised/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/fujiwara-2016-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-rigid Registration with Reliable Distance Field for Dynamic Shape Completion</title>
+      <link>https://www.kfworks.com/publication/fujiwara-2014-non/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/fujiwara-2014-non/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
@@ -29,6 +85,14 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Locally rigid globally non-rigid surface registration</title>
+      <link>https://www.kfworks.com/publication/fujiwara-2011-locally/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/fujiwara-2011-locally/</guid>
+      <description></description>
     </item>
     
   </channel>
