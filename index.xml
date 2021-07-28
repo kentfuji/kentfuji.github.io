@@ -7,7 +7,7 @@
     <description>Kent Fujiwara, Ph. D.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.kfworks.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.kfworks.com/media/icon_hu0cc9d5e1907a8f7f8c29c04c68e563c9_569165_512x512_fill_lanczos_center_3.png</url>
       <title>Kent Fujiwara, Ph. D.</title>
       <link>https://www.kfworks.com/</link>
     </image>
@@ -30,6 +30,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Generalized Shuffled Linear Regression (Oral)</title>
+      <link>https://www.kfworks.com/publication/li-2021-gslr/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-gslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look at Rotation-invariant Deep Point Cloud Analysis</title>
+      <link>https://www.kfworks.com/publication/li-2021-rotinv/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-rotinv/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -124,25 +140,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/
     </item>
     
     <item>
-      <title>A Closer Look at Rotation-invariant Deep Point Cloud Analysis</title>
-      <link>https://www.kfworks.com/publication/li-2021-rotinv/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.kfworks.com/publication/li-2021-rotinv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Shuffled Linear Regression</title>
-      <link>https://www.kfworks.com/publication/li-2021-gslr/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.kfworks.com/publication/li-2021-gslr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Toward a Unified Framework for Point Set Registration</title>
       <link>https://www.kfworks.com/publication/li-2021-toward/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://www.kfworks.com/publication/li-2021-toward/</guid>
       <description></description>
     </item>
