@@ -5,12 +5,25 @@
     <link>https://www.kfworks.com/post/</link>
       <atom:link href="https://www.kfworks.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Mon, 21 Nov 2022 18:33:24 +0900</lastBuildDate>
     <image>
       <url>https://www.kfworks.com/media/icon_hu0cc9d5e1907a8f7f8c29c04c68e563c9_569165_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://www.kfworks.com/post/</link>
     </image>
+    
+    <item>
+      <title>Post</title>
+      <link>https://www.kfworks.com/post/aaai2023/post/</link>
+      <pubDate>Mon, 21 Nov 2022 18:33:24 +0900</pubDate>
+      <guid>https://www.kfworks.com/post/aaai2023/post/</guid>
+      <description>&lt;p&gt;We are excited to announce that our paper &amp;ldquo;Frame-Level Label Refinement for Skeleton-Based Weakly-Supervised Temporal Action Localization&amp;rdquo;,  was accepted to AAAI 2023!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qing Yu and Kent Fujiwara, &amp;ldquo;Frame-Level Label Refinement for Skeleton-Based Weakly-Supervised Temporal Action Localization&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The papers will be presented at AAAI 2023 (Feb. 7-14, 2023). The paper and code will be released soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1 oral and 1 poster paper accepted to ICCV 2021</title>

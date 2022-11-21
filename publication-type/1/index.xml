@@ -5,7 +5,7 @@
     <link>https://www.kfworks.com/publication-type/1/</link>
       <atom:link href="https://www.kfworks.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kfworks.com/media/icon_hu0cc9d5e1907a8f7f8c29c04c68e563c9_569165_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,25 +13,33 @@
     </image>
     
     <item>
-      <title>Generalized Shuffled Linear Regression (Oral)</title>
-      <link>https://www.kfworks.com/publication/li-2021-gslr/</link>
-      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.kfworks.com/publication/li-2021-gslr/</guid>
+      <title>Frame-Level Label Refinement for Skeleton-Based Weakly-Supervised Temporal Action Localization</title>
+      <link>https://www.kfworks.com/publication/yu-2023-swtal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/yu-2023-swtal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Closer Look at Rotation-invariant Deep Point Cloud Analysis</title>
       <link>https://www.kfworks.com/publication/li-2021-rotinv/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://www.kfworks.com/publication/li-2021-rotinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Shuffled Linear Regression</title>
+      <link>https://www.kfworks.com/publication/li-2021-gslr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.kfworks.com/publication/li-2021-gslr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a Unified Framework for Point Set Registration</title>
       <link>https://www.kfworks.com/publication/li-2021-toward/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://www.kfworks.com/publication/li-2021-toward/</guid>
       <description></description>
     </item>
