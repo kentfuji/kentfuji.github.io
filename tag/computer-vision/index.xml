@@ -5,12 +5,25 @@
     <link>https://www.kfworks.com/tag/computer-vision/</link>
       <atom:link href="https://www.kfworks.com/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Mon, 21 Nov 2022 18:33:24 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Kent Fujiwara</copyright><lastBuildDate>Thu, 28 Sep 2023 18:33:24 +0900</lastBuildDate>
     <image>
       <url>https://www.kfworks.com/media/icon_hu0cc9d5e1907a8f7f8c29c04c68e563c9_569165_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Vision</title>
       <link>https://www.kfworks.com/tag/computer-vision/</link>
     </image>
+    
+    <item>
+      <title>1 Paper Accepted to AAAI 2023</title>
+      <link>https://www.kfworks.com/post/iccv2023/post/</link>
+      <pubDate>Thu, 28 Sep 2023 18:33:24 +0900</pubDate>
+      <guid>https://www.kfworks.com/post/iccv2023/post/</guid>
+      <description>&lt;p&gt;We are excited to announce that our paper &amp;ldquo;Role-Aware Interaction Generation from Textual Description&amp;rdquo;,  was accepted to ICCV 2023 as an oral presentation!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mikihiro Tanaka and Kent Fujiwara, &amp;ldquo;Role-Aware Interaction Generation from Textual Description&amp;rdquo; (Oral)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The paper will be presented at ICCV 2023 (Oct. 2-7, 2023). The code will be released soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1 Paper Accepted to AAAI 2023</title>
