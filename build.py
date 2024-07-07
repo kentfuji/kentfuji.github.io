@@ -48,6 +48,7 @@ def get_author_dict():
         'Katsushi Ikeuchi': 'https://www.cvl.iis.u-tokyo.ac.jp/~ki/',
         'Bo Zheng': 'http://www.bozheng-lab.com/',
         'Fumio Okura': 'http://cvl.ist.osaka-u.ac.jp/user/okura/',
+        'Kent Fujiwara': 'https://www.kfworks.com/',
         }
 
 def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Michael Niemeyer', add_links=True):
