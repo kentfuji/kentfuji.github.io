@@ -18,8 +18,8 @@ def get_personal_data():
                 </p>
 
                 <p>
-                    <a href="https://m-niemeyer.github.io/assets/other/bio.txt" target="_blank" style="margin-right: 5px"><i class="fa-solid fa-graduation-cap"></i> Bio</a>
-                    <a href="https://m-niemeyer.github.io/assets/pdf/CV.pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
+                    <a href="https://kentfuji.github.io/assets/other/bio.txt" target="_blank" style="margin-right: 5px"><i class="fa-solid fa-graduation-cap"></i> Bio</a>
+                    <a href="https://kentfuji.github.io/assets/pdf/CV.pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:kent.fujiwara@lycorp.co.jp" style="margin-right: 5px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
                     <a href="https://x.com/kfuji_eng" target="_blank" style="margin-right: 5px"><i class="fab fa-twitter fa-lg"></i> Twitter (en)</a>
                     <a href="https://x.com/kentfuji" target="_blank" style="margin-right: 5px"><i class="fab fa-twitter fa-lg"></i> Twitter (jp)</a>
