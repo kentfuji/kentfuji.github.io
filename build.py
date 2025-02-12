@@ -10,11 +10,11 @@ def get_personal_data():
                 <p>
                     I am a research scientist at LY Corporation. 
                     My research interests is in computer vision, mainly dealing with point cloud analysis, 3D vision, image registration and 3D reconstruction. 
-                    Along with my colleagues I lead a lab called Virtual Human Laboratory between LY Corporation and Osaka University.
+                    Along with my colleagues I lead a lab called Virtual Human Laboratory in LY Corporation.
                 </p>
                 <p>
                     <span style="font-weight: bold;">News:</span>
-                    We have one paper accepted to ECCV 2024! Stay tuned for more details.
+                    We have one paper accepted to AAAI 2025! Stay tuned for more details.
                 </p>
 
                 <p>
@@ -185,12 +185,12 @@ def get_index_html():
                         {pub}
                     </div>
                 </div>
-                <div class="row" style="margin-top: 3em;">
-                    <div class="col-sm-12" style="">
-                        <h4>Talks</h4>
-                        {talks}
-                    </div>
-                </div>
+                 <!-- Comment for now <div class="row" style="margin-top: 3em;">
+                #     <div class="col-sm-12" style="">
+                #         <h4>Talks</h4>
+                #         {talks}
+                #     </div>
+                # </div> -->
                 <div class="row" style="margin-top: 3em; margin-bottom: 1em;">
                     {footer}
                 </div>
