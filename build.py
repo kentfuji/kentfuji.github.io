@@ -14,7 +14,7 @@ def get_personal_data():
                 </p>
                 <p>
                     <span style="font-weight: bold;">News:</span>
-                    We have one paper accepted to AAAI 2025! Stay tuned for more details.
+                    We have one paper accepted to ICCV 2025! Stay tuned for more details.
                 </p>
 
                 <p>
