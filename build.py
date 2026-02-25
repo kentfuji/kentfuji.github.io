@@ -14,7 +14,7 @@ def get_personal_data():
                 </p>
                 <p>
                     <span style="font-weight: bold;">News:</span>
-                    We have one paper accepted to ICCV 2025! Stay tuned for more details.
+                    We have two paper accepted to CVPR 2026! Stay tuned for more details.
                 </p>
 
                 <p>
@@ -49,6 +49,7 @@ def get_author_dict():
         'Bo Zheng': 'http://www.bozheng-lab.com/',
         'Fumio Okura': 'http://cvl.ist.osaka-u.ac.jp/user/okura/',
         'Kent Fujiwara': 'https://www.kfworks.com/',
+        'Sakuya Ota': 'https://sinc865.github.io/',
         }
 
 def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Michael Niemeyer', add_links=True):
