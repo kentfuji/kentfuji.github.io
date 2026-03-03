@@ -1,15 +1,5 @@
 from pybtex.database.input import bibtex
 
-
-def render_media_tag(src):
-    src_lower = src.lower()
-    if src_lower.endswith('.mp4'):
-        return f'''<video class="img-fluid img-thumbnail" autoplay muted loop playsinline preload="metadata">
-    <source src="{src}" type="video/mp4">
-    Your browser does not support the video tag.
-</video>'''
-    return f'''<img src="{src}" class="img-fluid img-thumbnail" alt="Project image">'''
-
 def get_personal_data():
     name = ["Kent", "Fujiwara"]
     email = "kent.fujiwara@lycorp.co.jp"
@@ -84,7 +74,7 @@ def generate_person_html(persons, connection=", ", make_bold=True, make_bold_nam
 
 def get_paper_entry(entry_key, entry):
     s = """<div style="margin-bottom: 3em;"> <div class="row"><div class="col-sm-3">"""
-    s += render_media_tag(entry.fields['img'])
+    s += f'''<img src="{entry.fields['img']}" class="img-fluid img-thumbnail">'''
     s += """</div><div class="col-sm-9">"""
 
     if 'award' in entry.fields.keys():
@@ -117,7 +107,7 @@ def get_paper_entry(entry_key, entry):
 
 def get_talk_entry(entry_key, entry):
     s = """<div style="margin-bottom: 3em;"> <div class="row"><div class="col-sm-3">"""
-    s += render_media_tag(entry.fields['img'])
+    s += f'''<img src="{entry.fields['img']}" class="img-fluid img-thumbnail">'''
     s += """</div><div class="col-sm-9">"""
     s += f"""{entry.fields['title']}<br>"""
     s += f"""<span style="font-style: italic;">{entry.fields['booktitle']}</span>, {entry.fields['year']} <br>"""
