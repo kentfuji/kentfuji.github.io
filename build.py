@@ -14,7 +14,7 @@ def get_personal_data():
                 </p>
                 <p>
                     <span style="font-weight: bold;">News:</span>
-                    We have two paper accepted to CVPR 2026! Stay tuned for more details.
+                    We have 3 papers accepted to ECCV 2026! Stay tuned for further details.
                 </p>
 
                 <p>
