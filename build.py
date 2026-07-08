@@ -52,6 +52,7 @@ def get_author_dict():
         'Sakuya Ota': 'https://sinc865.github.io/',
         'Akihisa Watanabe': 'https://akihisa-watanabe.github.io/',
         'Edgar Simo-Serra': 'https://esslab.jp/~ess/',
+        'Huakun Liu': 'https://hkliu.com/',
         }
 
 def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Michael Niemeyer', add_links=True):
