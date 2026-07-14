@@ -53,6 +53,8 @@ def get_author_dict():
         'Akihisa Watanabe': 'https://akihisa-watanabe.github.io/',
         'Edgar Simo-Serra': 'https://esslab.jp/~ess/',
         'Huakun Liu': 'https://hkliu.com/',
+        'Satoshi Ikehata': 'https://satoshi-ikehata.github.io/',
+        'Ikuro Sato': 'https://dblp.org/pid/68/10406.html',
         }
 
 def generate_person_html(persons, connection=", ", make_bold=True, make_bold_name='Michael Niemeyer', add_links=True):
